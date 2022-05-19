@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.45e3cf61.css",
-    "main.js": "/static/js/main.bef8d131.js",
-    "static/media/wallpaper.jpg": "/static/media/wallpaper.ebd4912adee1e1fa5ef2.jpg",
-    "static/media/pic3.jpg": "/static/media/pic3.e9246a1e31b223e55616.jpg",
-    "static/media/pic4.jpg": "/static/media/pic4.e0fc9dc03591bcd3ddd3.jpg",
-    "static/media/pic1.jpg": "/static/media/pic1.b43e7bde1b92fe9ffb02.jpg",
-    "static/media/pic2.jpg": "/static/media/pic2.0198cfc1d289608d677b.jpg",
-    "static/media/pic5.png": "/static/media/pic5.7332cecbcaa4b6a9d26f.png",
-    "static/media/me2.jpg": "/static/media/me2.ba7aaddb842453361027.jpg",
-    "static/media/pic6.png": "/static/media/pic6.9d9451a7afe0029b6fab.png",
-    "index.html": "/index.html",
-    "main.45e3cf61.css.map": "/static/css/main.45e3cf61.css.map",
-    "main.bef8d131.js.map": "/static/js/main.bef8d131.js.map"
+    "main.css": "/portfolio/static/css/main.45e3cf61.css",
+    "main.js": "/portfolio/static/js/main.ddaaf807.js",
+    "static/media/wallpaper.jpg": "/portfolio/static/media/wallpaper.ebd4912adee1e1fa5ef2.jpg",
+    "static/media/pic3.jpg": "/portfolio/static/media/pic3.e9246a1e31b223e55616.jpg",
+    "static/media/pic4.jpg": "/portfolio/static/media/pic4.e0fc9dc03591bcd3ddd3.jpg",
+    "static/media/pic1.jpg": "/portfolio/static/media/pic1.b43e7bde1b92fe9ffb02.jpg",
+    "static/media/pic2.jpg": "/portfolio/static/media/pic2.0198cfc1d289608d677b.jpg",
+    "static/media/pic5.png": "/portfolio/static/media/pic5.7332cecbcaa4b6a9d26f.png",
+    "static/media/me2.jpg": "/portfolio/static/media/me2.ba7aaddb842453361027.jpg",
+    "static/media/pic6.png": "/portfolio/static/media/pic6.9d9451a7afe0029b6fab.png",
+    "index.html": "/portfolio/index.html",
+    "main.45e3cf61.css.map": "/portfolio/static/css/main.45e3cf61.css.map",
+    "main.ddaaf807.js.map": "/portfolio/static/js/main.ddaaf807.js.map"
   },
   "entrypoints": [
     "static/css/main.45e3cf61.css",
-    "static/js/main.bef8d131.js"
+    "static/js/main.ddaaf807.js"
   ]
 }
