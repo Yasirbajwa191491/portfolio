@@ -10,9 +10,16 @@ const About = () => {
             React JS Developer | MERN Stack Developer
           </p>
           <p>Laravel / Vue Developer</p>
+          <p>Software Engineer</p>
           <hr />
           <p style={{ color: "#696969" }}>
-           I am a full stack Developer
+
+            I have created different projects of React js with backend as well
+            with the help of Node js, Express js and MongoDB like WhatsApp
+            clone, Facebook clone, Weather websites with restful Api's, Todo
+            App, Notepad App and different portfolio websites. I have completed
+            my 6th months internship in IT service of Goverment College
+            University Faisalabad.
           </p>
 
           <img src="./wallpaper.jpg" alt="wallpaper" style={{height:"400px",width:"700px",margin:"auto"}} />
