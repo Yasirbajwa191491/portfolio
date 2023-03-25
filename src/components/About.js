@@ -10,6 +10,7 @@ const About = () => {
             React JS Developer | MERN Stack Developer
           </p>
           <p>Laravel / Vue Developer</p>
+          <p>Software Engineer</p>
           <hr />
           <p style={{ color: "#696969" }}>
             I have created different projects of React js with backend as well
