@@ -9,6 +9,7 @@ const About = () => {
           <p style={{ color: "#696969" }}>
             React JS Developer | MERN Stack Developer
           </p>
+          <p>Laravel / Vue Developer</p>
           <hr />
           <p style={{ color: "#696969" }}>
             I have created different projects of React js with backend as well
@@ -18,6 +19,7 @@ const About = () => {
             my 6th months internship in IT service of Goverment College
             University Faisalabad. I have completed my 3 months internship in React Native as well.
           </p>
+
           <img src="./wallpaper.jpg" alt="wallpaper" style={{height:"400px",width:"700px",margin:"auto"}} />
         </div>
       </div>
