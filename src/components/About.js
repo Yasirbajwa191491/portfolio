@@ -16,7 +16,7 @@ const About = () => {
             clone, Facebook clone, Weather websites with restful Api's, Todo
             App, Notepad App and different portfolio websites. I have completed
             my 6th months internship in IT service of Goverment College
-            University Faisalabad. I have completed my 3 months internship in React Native as well.
+            University Faisalabad.
           </p>
           <img src="./wallpaper.jpg" alt="wallpaper" style={{height:"400px",width:"700px",margin:"auto"}} />
         </div>
