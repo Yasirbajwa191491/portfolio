@@ -13,6 +13,7 @@ const About = () => {
           <p>Software Engineer</p>
           <hr />
           <p style={{ color: "#696969" }}>
+
             I have created different projects of React js with backend as well
             with the help of Node js, Express js and MongoDB like WhatsApp
             clone, Facebook clone, Weather websites with restful Api's, Todo
